@@ -1,0 +1,13 @@
+Year,State,Cities,AQI_Morn,AQI_Eve
+Y2019,AP,Hyderabad,120,125
+Y2019,DL,Delhi,214,248
+Y2019,KA,Bengaluru,158,161
+Y2019,MH,Mumbai,115,101
+Y2019,TN,Chennai,126,120
+Y2019,WB,Kolkata,176,168
+Y2020,AP,Hyderabad,67,69
+Y2020,DL,Delhi,59,49
+Y2020,KA,Bengaluru,56,54
+Y2020,MH,Mumbai,67,76
+Y2020,TN,Chennai,66,74
+Y2020,WB,Kolkata,92,92
